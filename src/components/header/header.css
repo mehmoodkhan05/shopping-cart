@@ -1,0 +1,11 @@
+.header-section .main-header {
+    background: var(--primary-color);
+}
+
+.header-section .main-header .cart-icon {
+    font-size: 26px;
+}
+
+.header-section .main-header .cart-icon:hover {
+    color: var(--black-color);
+}
